@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Routing-Practice/static/css/main.073c9b0a.css",
+    "main.js": "/Routing-Practice/static/js/main.37246b5e.js",
+    "static/js/787.cc380049.chunk.js": "/Routing-Practice/static/js/787.cc380049.chunk.js",
+    "static/media/logo.svg": "/Routing-Practice/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Routing-Practice/index.html",
+    "main.073c9b0a.css.map": "/Routing-Practice/static/css/main.073c9b0a.css.map",
+    "main.37246b5e.js.map": "/Routing-Practice/static/js/main.37246b5e.js.map",
+    "787.cc380049.chunk.js.map": "/Routing-Practice/static/js/787.cc380049.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.37246b5e.js"
+  ]
+}
